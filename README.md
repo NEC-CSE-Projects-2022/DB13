@@ -2,14 +2,14 @@
 # Image Captioning using Ensemble Fusion Strategies
 
 ## Team Info
-- 22471A05XX — **SK.SAJAHAN** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )
+- 23475A0519 — **Sk. Shajahan** 
 _Work Done: TEAM LEADER - Full Stack Development & Project Management_
 
-- 22471A05XX — **J.SURYA TEJA** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )
+- 22471A05M6 — **J. Surya Teja** 
 _Work Done: TEAM MEMBER - Backend Development & Model Integration_
 
-- 22471A05XX — **N.V.C.SUDHREER** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )
-_Work Done: TEAM MEMBER - Frontend Design & UI/UX_
+- 23475A0522 — **N. V. Chaitanya Sudheer** 
+_Work Done: TEAM MEMBER - Frontend Design & UI/UX_ 
 
 ---
 
