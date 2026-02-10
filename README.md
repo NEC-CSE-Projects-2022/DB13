@@ -2,14 +2,14 @@
 # Image Captioning using Ensemble Fusion Strategies
 
 ## Team Info
-- 22471A05XX — **Name** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )
-_Work Done: xxxxxxxxxx_
+- 22471A05XX — **SK.SAJAHAN** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )
+_Work Done: TEAM LEADER - Full Stack Development & Project Management_
 
-- 22471A05XX — **Name** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )
-_Work Done: xxxxxxxxxx_
+- 22471A05XX — **J.SURYA TEJA** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )
+_Work Done: TEAM MEMBER - Backend Development & Model Integration_
 
-- 22471A05XX — **Name** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )
-_Work Done: xxxxxxxxxx_
+- 22471A05XX — **N.V.C.SUDHREER** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )
+_Work Done: TEAM MEMBER - Frontend Design & UI/UX_
 
 ---
 
