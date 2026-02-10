@@ -3,13 +3,13 @@
 
 ## Team Info
 - 23475A0519 — **Sk. Shajahan** 
-_Work Done: TEAM LEADER - Full Stack Development & Project Management_
+_Work Done: TEAM LEADER
 
 - 22471A05M6 — **J. Surya Teja** 
-_Work Done: TEAM MEMBER - Backend Development & Model Integration_
+_Work Done: TEAM MEMBER
 
 - 23475A0522 — **N. V. Chaitanya Sudheer** 
-_Work Done: TEAM MEMBER - Frontend Design & UI/UX_ 
+_Work Done: TEAM MEMBER
 
 ---
 
