@@ -1,64 +1,86 @@
-Dataset Title: RSICD (Remote Sensing Image Captioning Dataset)
 
-Usage of Dataset:
-Used for training, validating, and benchmarking remote sensing image captioning models. It serves as the primary data source for learning the mapping between aerial imagery and natural language descriptions.
+# Team Number – Project Title
 
+## Team Info
+- 22471A05XX — **Name** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )
+_Work Done: xxxxxxxxxx_
 
-Dataset Information
+- 22471A05XX — **Name** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )
+_Work Done: xxxxxxxxxx_
 
+- 22471A05XX — **Name** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )
+_Work Done: xxxxxxxxxx_
 
-Dataset Name: RSICD (Remote Sensing Image Captioning Dataset)
+- 22471A05XX — **Name** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )
+_Work Done: xxxxxxxxxx_
 
+---
 
-Source: Lu et al. (2017), available via Hugging Face
+## Abstract
+xxxxxxxxxx
 
+---
 
-Domain: Remote Sensing / Aerial Imagery
+## Paper Reference (Inspiration)
+👉 **[Paper Title xxxxxxxxxx
+  – Author Names xxxxxxxxxx
+ ](Paper URL here)**
+Original conference/IEEE paper used as inspiration for the model.
 
+---
 
-Task: Image Captioning, Text-Image Retrieval
+## Our Improvement Over Existing Paper
+xxxxxxxxxx
 
+---
 
-Problem Type: Multimodal Learning (Computer Vision + Natural Language Processing)
+## About the Project
+Give a simple explanation of:
+- What your project does
+- Why it is useful
+- General project workflow (input → processing → model → output)
 
+---
 
-File Format: Images (JPG), Annotations (JSON/Text)
+## Dataset Used
+👉 **[Dataset Name](Dataset URL)**
 
+**Dataset Details:**
+xxxxxxxxxx
 
-Dataset Link: https://huggingface.co/datasets/rsicd
-Kaggle Link: https://www.kaggle.com/datasets/arampacha/rsicd-image-captioning
+---
 
+## Dependencies Used
+xxxxxxxxxx, xxxxxxxxxx, xxxxxxxxxx ...
 
-**Dataset Overview**
+---
 
+## EDA & Preprocessing
+xxxxxxxxxx
 
-Total Records: 10,921 Images
+---
 
+## Model Training Info
+xxxxxxxxxx
 
-Labeled Records: Yes, 5 captions per image (Total >50,000 sentences)
+---
 
+## Model Testing / Evaluation
+xxxxxxxxxx
 
-Classes: ~30 Scene Classes (e.g., Airport, Bridge, Beach, Center, Church, Farmland, Forest, Industrial, Meadow, Mountain, Park, Parking, Playground, Pond, Port, Railway Station, Resort, River, School, Sparse Residential, Square, Stadium, Storage Tanks, Viaduct)
+---
 
+## Results
+xxxxxxxxxx
 
-Annotation Type: Manual Human Annotation
+---
 
+## Limitations & Future Work
+xxxxxxxxxx
 
-Why This Dataset?
-RSICD is chosen because it is one of the largest and most widely used datasets for remote sensing captioning. It presents unique challenges compared to natural image datasets (like COCO) due to the overhead perspective, scale variation, and specific remote sensing objects. It allows for robust evaluation of the model's ability to understand complex aerial scenes.
+---
 
+## Deployment Info
+xxxxxxxxxx
 
-Features Used
-
-
-Feature 1: Remote Sensing Imagery (Standardized to 224x224 pixels) - The visual input for the model.
-
-
-Feature 2: Natural Language Captions - Five ground-truth sentences per image describing the scene content and relationships.
-
-
-Feature 3: Scene Categories - High-level labels used for optional classification or conditioning tasks.
-
-
-Summary
-The RSICD dataset provides a comprehensive collection of annotated aerial images, enabling the development and testing of the fusion-based image captioning system. It ensures the model is capable of accurately describing diverse geographical features and man-made structures from an overhead perspective.
+---
